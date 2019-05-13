@@ -1,0 +1,10 @@
+name: Battlepass
+description: 1.0
+version: 1.0
+main: me.chelsea1124.battlepass.Main
+author: chelsea1124
+
+commands:
+  Battlepass:
+    description: Opens Battlepass GUI
+    aliases: [bp]
